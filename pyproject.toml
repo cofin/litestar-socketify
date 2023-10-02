@@ -22,7 +22,8 @@ classifiers = [
   "Topic :: Database :: Database Engines/Servers",
 ]
 dependencies = [
-  "litestar[cli]>=2.0.1",
+    "litestar[cli]>=2.0.1",
+    "socketify>=0.0.27",
 ]
 description = "socketify plugin for Litestar"
 keywords = [
