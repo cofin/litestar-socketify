@@ -1,6 +1,6 @@
 # Litestar Socketify Plugin
 
-> [!WARNING]  
+> [!WARNING]
 > Socketify currently has an issue with ASGI lifespans. This plugin is experimental (at best)
 
 ## Installation
