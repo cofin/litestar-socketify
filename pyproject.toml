@@ -22,8 +22,8 @@ classifiers = [
   "Topic :: Database :: Database Engines/Servers",
 ]
 dependencies = [
-    "litestar[cli]>=2.0.1",
-    "socketify>=0.0.27",
+  "litestar[cli]>=2.0.1",
+  "socketify>=0.0.27",
 ]
 description = "socketify plugin for Litestar"
 keywords = [
@@ -38,10 +38,10 @@ requires-python = ">=3.8"
 version = "0.1.0"
 
 [project.urls]
-Changelog = "https://cofin.github.io/litesatr-asyncpg/latest/changelog"
+Changelog = "https://cofin.github.io/litesatr-socketify/latest/changelog"
 Discord = "https://discord.gg/X3FJqy8d2j"
-Documentation = "https://cofin.github.io/litesatr-asyncpg/latest/"
-Homepage = "https://cofin.github.io/litesatr-asyncpg/latest/"
+Documentation = "https://cofin.github.io/litesatr-socketify/latest/"
+Homepage = "https://cofin.github.io/litesatr-socketify/latest/"
 Issue = "https://github.com/cofin/litestar-socketify/issues/"
 Source = "https://github.com/cofin/litestar-socketify"
 
@@ -249,7 +249,7 @@ body = """
 {% endfor %}\n
 """
 footer = """
-Litestar Asyncpg Changelog
+Litestar Socketify Changelog
 """
 header = """
 =========
